@@ -4,7 +4,7 @@
 > experiment lifecycle management, milestone burn-down, blocker aging,
 > dependency risk scoring, and auto-generated executive summaries.
 
-Built as an interview portfolio project targeting the **Pinterest TPM II / Ads Tech Group (ATG)** role.
+
 
 ---
 
