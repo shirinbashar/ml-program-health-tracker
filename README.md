@@ -108,3 +108,14 @@ python -m streamlit run dashboard/app.py
 ---
 
 ## 📁 Project Structure
+ml-program-health-tracker/
+├── data/
+│   ├── schema.sql        # DDL for all 6 tables
+│   ├── seed.py           # Realistic fake data generator
+│   └── program_health.db # SQLite database
+├── queries/
+│   └── queries.py        # 15 SQL queries as Python constants
+├── dashboard/
+│   └── app.py            # Streamlit dashboard (6 sections)
+├── assets/               # Screenshots for README
+└── README.md
